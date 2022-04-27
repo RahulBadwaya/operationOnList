@@ -1,0 +1,17 @@
+.main{
+  background:linear-gradient(aqua,darkorange);
+  height: 100%;
+  padding-bottom: 10rem;
+}
+.input{
+  background: transparent;
+  outline: none;
+  border:1px solid white;
+  width: 40%;
+  margin: 0.5rem;
+  padding: 0.5rem 2rem;
+  color: white;
+}
+::-webkit-input-placeholder{
+  color: white;
+}
